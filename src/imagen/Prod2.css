@@ -1,0 +1,12 @@
+.prod2 img{
+    width: 100%;
+    height: 100%;
+}
+.Prod21{
+    text-align: center;
+  /*  font-family: Arial, Helvetica, sans-serif;*/
+    font-size: 150%;
+    text-shadow: 20% 30% 10%;
+    color: white;
+    border-top: 2px solid white;
+}
